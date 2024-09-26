@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Aldrin lijo J E       </h3>
-<h3>Register Number:    212222240007      </h3>
+<h3>Name: S MOHAMED AHSAN       </h3>
+<h3>Register Number: 212223240089      </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
